@@ -1,4 +1,6 @@
 # Stack-machine
+OPEN BY RAW OPTION
+
 Task from "Algorithms and data structures" subject.
 
 
