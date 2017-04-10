@@ -2,6 +2,9 @@
 OPEN BY RAW OPTION
 
 Task from "Algorithms and data structures" subject.
+Points: 5/5.
+Minuses:
+- memory leak
 
 
 Content of the command:
